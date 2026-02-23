@@ -1,4 +1,4 @@
-#include <stdio.h>    //Пятницький Данило, 101 група, 7 лабораторна.
+#include <stdio.h>    //Пятницький Данило, 101 група, 7 лабораторна, 7 завдання.
 #include <limits.h>   
 #include <stdlib.h>
 int main()
